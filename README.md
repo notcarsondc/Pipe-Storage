@@ -37,6 +37,46 @@ A Pipe Firestarter Storage Node is a decentralized engine for storing and delive
 
 - Creates a closed-loop, community-owned infrastructure.
 
+## ⚡ One-Command Setup
+
+Get started instantly! Just run this command in your terminal:
+
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/notcarsondc/Pipe-Storage/main/menu.sh)
+```
+--- 
+
+## 🏆 All Option U get 
+
+```
+1. 🛠️ Install Node
+2. ⬆️ Upload File
+3. 📄 Show Uploaded File Info
+4. 🔗 Show Referral Stats and Code
+5. 📈 Check Token Usage
+6. 🔑 Show Credentials
+7. 🔥 Swap tokens
+8. ❌ Exit
+```
+
+
+##  How to Earn the 🔥Firestarter Role
+
+### 1. Share Your Contribution Proof
+- **Upload your video(s)** using the menu.
+- **Take a screenshot** of your uploaded file info (showing the public link).
+- **Post the screenshot and public link** in the `#firestarter-storage-share` channel on Discord.
+- The team will **verify** and grant you the role!
+
+### 2. Make a Good Tweet
+- **Post your screenshot and public file link** on Twitter with positive feedback about the project.
+- **Share your tweet link** in the `#pipe-community-social` channel on Discord.
+- The team will **verify** and grant you the role!
+
+**👉 [Join the Discord server](https://discord.gg/fyDRfCVWJA) to get started!**
+
+---
+
 
 
 ---
